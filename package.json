@@ -1,0 +1,23 @@
+{
+  "name": "appdata-path",
+  "version": "0.1.0",
+  "homepage": "https://github.com/demurgos/appdata-path",
+  "description": "Get the AppData path",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/demurgos/appdata-path.git"
+  },
+  "scripts": {
+    "start": "node main/main.js"
+  },
+  "keywords": [
+    "appdata",
+    "os",
+    "environment"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
