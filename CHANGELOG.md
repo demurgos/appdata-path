@@ -1,4 +1,4 @@
-# Next
+# 0.1.2 (2017-06-20)
 
 - **[Fix]** Fix Typescript type definitions
 
