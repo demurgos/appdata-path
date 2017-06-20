@@ -1,1 +1,2 @@
-export default function getAppDataPath(app?: string): string;
+export function getAppDataPath(app?: string): string;
+export default getAppDataPath;
