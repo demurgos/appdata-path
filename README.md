@@ -11,7 +11,7 @@ npm install -S appdata-path
 ```javascript
 import getAppDataPath from "appdata-path";
 // Or
-// const {getAppDataPath} = require("appdata-path");
+// const getAppDataPath = require("appdata-path");
 
 console.log(getAppDataPath());
 /*
