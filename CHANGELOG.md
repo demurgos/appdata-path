@@ -1,6 +1,7 @@
 # Next
 
 - **[Fix]** Fix invalid `platform` access in `getFallback`.
+- **[Fix]** Do not ignore `app` when using `APPDATA` env var.
 
 # 0.1.2 (2017-06-20)
 
