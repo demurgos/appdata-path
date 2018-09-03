@@ -73,4 +73,4 @@ See [CHANGELOG.md](./CHANGELOG.md).
 
 ## License
 
-[MIT License © 2017 Charles Samborski](./LICENSE.md)
+See [LICENSE.md](./LICENSE.md).
