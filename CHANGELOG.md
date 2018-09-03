@@ -1,4 +1,4 @@
-# Next
+# 1.0.0 (2018-09-04)
 
 - **[Feature]** Expose function as main export for commonjs.
 - **[Fix]** Fix invalid `platform` access in `getFallback`.

@@ -1,6 +1,6 @@
 {
   "name": "appdata-path",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "homepage": "https://github.com/demurgos/appdata-path",
   "description": "Get the AppData path",
   "main": "lib/index.js",
